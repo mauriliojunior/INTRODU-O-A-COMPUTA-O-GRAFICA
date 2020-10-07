@@ -8,3 +8,6 @@ Os objetivos deste trabalho são
 computadores dos alunos;
 • Familizarizar os alunos com a estrutura de um programa OpenGL moderno.
 
+Dificuldades para execução
+
+Tivemos dificuldade com a coloração do triangulo devido a inconpatibilidade com GLSL 3.30. conforme segue os prints.
